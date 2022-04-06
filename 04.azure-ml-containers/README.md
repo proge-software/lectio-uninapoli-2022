@@ -1,6 +1,6 @@
-# Azure ML
+# Azure ML and containers
 
-We talk about Machine Learning on Azure and forecast analysis with python and jupyter notebook.
+We talk about Open-Source Cloud Native Technologies for Machine Learning.
 
 ## Agenda
 

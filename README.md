@@ -1,7 +1,9 @@
 # Lectures
 
-In questo repository è contenuta la documentazione prodotta a supporto di una serie di lezioni sui servizi Azure ideate per l'erogazione nel mondo universitario.
+Documentation for 2022 Azure lessons for Napoli II University
 
-- **[Gamification](./01.gamification/README.md)**: dimostrazione di utilizzo dei Cognitive Services di Azure in un BOT integrato con Teams e implementato con Microsoft Bot Framework v4
-- **[Machine Learning on Azure](./02.azure-ml/README.md)**: analisi di dati e forecast analysis mediante lo strumento Azure Machine Learning Studio con python e jupyter notebook
-- **[Cognitive Services](./03.cognitive-services/README.md)**: dimostrazione di utilizzo dei Cognitive Services di Azure
+
+- **[Advanced Analytics](./01.advanced-analytics/README.md)**: Principles and Microsoft resources for integrating data from multiple sources and efficiently analyze them
+- **[Azure and IoT](./02.azure-and-iot/README.md)**: TODO
+- **[Cognitive Services](./03.cognitive-services/README.md)**: show usage of Azure Cognitive Services
+- **[Azure Machine Learning and containers](./04.azure-ml-containers/README.md)**: Open-Source Cloud Native Technologies for Machine Learning 
