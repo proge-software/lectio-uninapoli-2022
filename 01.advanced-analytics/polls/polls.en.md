@@ -4,26 +4,26 @@
 - [ ] ETL pipelines
 - [ ] Data Lake
 - [ ] Data Warehouse
-- [ ] Analytical tools (PowerBI, QlikView, Tableau...)
+- [ ] Data presentation tools (PowerBI, QlikView...)
 - [ ] Big data processing (Hadoop, Apache Spark, Hive...)
 - [ ] Jupyter Notebooks
 
-### Which Data Analytics challenge are you most interested in?
-- [ ] Properly define a simple but complete analytical model out of complex data sources, and define transformations to obtain it.
-- [ ] Create visuals (like plots, cards or text)  based on the analytical model, that present in a simple and immediate way information that final users need.
-- [ ] Manage a technical architecture that ensures good performances, data quickly available, fault tolerance, effective error analysis, data security.
+### Which Data Analytics aspects are you most interested in?
+- [ ] Define analytical model (star schema) and transformations in SQL, Python or other languages
+- [ ] Create visuals, like plots or text explanation
+- [ ] Manage technical architecture, security and fault tolerance
 
-### Which are the languages you used most frequently to collect and transform data?
-- [ ] SQL
-- [ ] Spark / PySpark
-- [ ] Python/Pandas
-- [ ] Other programming languages
-- [ ] I prefer using graphical tools like Tableau/Data Flow
+### Which of the following data transformation libraries or tools are you mostly familiar with?
+- [ ] Python Pandas
+- [ ] Spark
+- [ ] Graphical ETL tools: Synapse, Data Factory, Tableau, Data Flow...
 - [ ] I have not much experience in collecting and transforming data
+- [ ] Other (specify)
 
-### Which tools you use to present your data
+### Which data presentation tools are you familiar with?
 - [ ] Power BI
 - [ ] Excel plots / Pivot table
 - [ ] Jupyter + MatplotLib, Seaborn
-- [ ] Tableau
+- [ ] Tableau (presentation)
 - [ ] QlikView / QlikSense
+- [ ] Other 
