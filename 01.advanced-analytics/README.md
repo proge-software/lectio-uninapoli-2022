@@ -13,7 +13,7 @@ We talk about principles and Microsoft resources for integrating data from multi
   - ETL tools: Azure Synapse or Data Factory
   - Anaytical tools: PowerBI
 - Additional Resources
-1. [Azure Synapse](04.azure-synapse.md) :clock130: **(01:30)**
+1. [Azure Synapse](03.azure-synapse.md) :clock130: **(01:30)**
 - General information
 - Demo
   - Create resources on Azure
