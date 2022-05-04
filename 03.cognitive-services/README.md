@@ -34,14 +34,14 @@ We talk about Azure Cognitive Services.
      - Custom Vision Service
    - Demo
 1. [Language](05.language.md)
-  - Introduction
-  - Language Service
-    - Sentiment Analysis
-    - Key Phrase Extraction
-    - Language Detection
-    - Named Entity Recognition
-    - Question&Answering
-  - Conversational Language Understanding
-    - Configure CLU
-  - Demo
+   - Introduction
+   - Language Service
+     - Sentiment Analysis
+     - Key Phrase Extraction
+     - Language Detection
+     - Named Entity Recognition
+     - Question&Answering
+   - Conversational Language Understanding
+     - Configure CLU
+   - Demo
 1. [Q&A](06.q&a.md)
