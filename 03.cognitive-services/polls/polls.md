@@ -15,16 +15,21 @@
 - [ ] Speech
 - [ ] Vision
 
-## Do you have a project where to introduce some of the functionalities provided from the Vision Cognitive services?
+## If you have a project where to introduce some of the functionalities provided from the Vision Cognitive services which one do you choose?
 
-- [ ] I do not have neither a project nor an idea
-- [ ] I do not have a project, but I have an idea
-- [ ] I do have a project
-- [ ] I do have more than one project
+- [ ] Face Detection
+- [ ] Face Verification
+- [ ] Find Similar Faces
+- [ ] Person Identification
+- [ ] Face grouping
+- [ ] Computer Vision
+- [ ] Custom Vision Service
 
-## Do you have a project where to introduce some of the functionalities provided from the Language Cognitive services?
+## If you have a project where to introduce some of the functionalities provided from the Language Cognitive services which one do you choose?
 
-- [ ] I do not have neither a project nor an idea
-- [ ] I do not have a project, but I have an idea
-- [ ] I do have a project
-- [ ] I do have more than one project
+- [ ] Sentiment Analysis
+- [ ] Key Phrase Extraction
+- [ ] Language Detection
+- [ ] Named Entity Recognition
+- [ ] Question&Answering
+- [ ] Conversational Language Understanding
