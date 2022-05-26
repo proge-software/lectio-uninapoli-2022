@@ -1,6 +1,6 @@
 ﻿# Polls
 
-## What operating systems can you use (one or more answers)? Feel free to add new entries if missing
+## What operating systems can you use? (one or more answers) Feel free to add new entries if missing
 
 - [ ] Linux
 - [ ] Android
@@ -8,7 +8,7 @@
 - [ ] macOS
 - [ ] iOS
 
-## Have you ever worked with Linux Containers? 
+## Have you ever worked with Linux Containers?
 
 - [ ] I'm a master
 - [ ] I'm good
@@ -16,7 +16,7 @@
 - [ ] Know by name
 - [ ] Never used
 
-## What Container Orchestrators can you use? (one or more answers)? Feel free to add new entries if missing
+## What Container Orchestrators can you use? (one or more answers) Feel free to add new entries if missing
 
 - [ ] Kubernetes
 - [ ] Mesos
@@ -30,8 +30,7 @@
 - [ ] Know by name
 - [ ] Never used
 
-
-## What ML toolkit can you use?
+## What ML toolkit can you use? (one or more answers) Feel free to add new entries if missing
 
 - [ ] KUBEFLOW
 - [ ] AZURE ML
