@@ -37,4 +37,3 @@
 - [ ] AWS ML
 - [ ] IBM MACHINE LEARNING
 - [ ] GOOGLE CLOUD ML
-- [ ] Never used
