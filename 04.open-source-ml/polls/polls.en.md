@@ -30,10 +30,12 @@
 - [ ] Know by name
 - [ ] Never used
 
-## Do you know Kubeflow?
 
-- [ ] I'm a master
-- [ ] I'm good
-- [ ] A bit
-- [ ] Know by name
+## What ML toolkit can you use?
+
+- [ ] KUBEFLOW
+- [ ] AZURE ML
+- [ ] AWS ML
+- [ ] IBM MACHINE LEARNING
+- [ ] GOOGLE CLOUD ML
 - [ ] Never used
