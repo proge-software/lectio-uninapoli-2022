@@ -1,0 +1,25 @@
+version: '3'
+services:
+  mongo:
+    image: mongo:latest
+    networks:
+      - unina-demo-mongo
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: Supers3cret!
+    restart: always
+  mongo-express:
+    image: mongo-express:latest
+    networks:
+      - unina-demo-mongo
+    environment:
+      ME_CONFIG_MONGODB_URL: mongodb://root:Supers3cret!@mongo:27017
+      ME_CONFIG_MONGODB_AUTH_USERNAME: root
+      ME_CONFIG_MONGODB_AUTH_PASSWORD: Supers3cret!
+      ME_CONFIG_MONGODB_AUTH_DATABASE: db
+    ports:
+      - 10000:8081
+    restart: always
+volumes: {}
+networks:
+  unina-demo-mongo: {}
