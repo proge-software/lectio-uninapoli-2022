@@ -1,6 +1,14 @@
 ﻿# Polls
 
-## Do you know Linux?
+## What operating systems can you use (one or more answers)? Feel free to add new entries if missing
+
+- [ ] Linux
+- [ ] Android
+- [ ] Windows
+- [ ] macOS
+- [ ] iOS
+
+## Have you ever worked with Linux Containers? 
 
 - [ ] I'm a master
 - [ ] I'm good
@@ -8,23 +16,13 @@
 - [ ] Know by name
 - [ ] Never used
 
-## Do you know Linux Containers?
+## What Container Orchestrators can you use? (one or more answers)? Feel free to add new entries if missing
 
-- [ ] I'm a master
-- [ ] I'm good
-- [ ] A bit
-- [ ] Know by name
-- [ ] Never used
+- [ ] Kubernetes
+- [ ] Mesos
+- [ ] Docker Swarm
 
-## Do you know Container Orchestrators?
-
-- [ ] I'm a master
-- [ ] I'm good
-- [ ] A bit
-- [ ] Know by name
-- [ ] Never used
-
-## Do you know Kubernetes?
+## Have you ever worked with Kubernetes?
 
 - [ ] I'm a master
 - [ ] I'm good
