@@ -1,3 +1,6 @@
 [submodule "04.open-source-ml/src/06.kubeflow/kubeflow/manifests"]
 	path = 04.open-source-ml/src/06.kubeflow/kubeflow/manifests
 	url = https://github.com/kubeflow/manifests
+[submodule "02.azure-and-iot/src/thsock"]
+	path = 02.azure-and-iot/src/thsock
+	url = https://github.com/filariow/thsock
